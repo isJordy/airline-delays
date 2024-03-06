@@ -5,6 +5,8 @@ experience a delayed arrival, defined as an arrival occurring 15 minutes or more
 
 See "Final Presentation.pdf" for complete analysis
 
+* All data is from https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
+
 Original GitHub Repo: https://github.com/chs5386/Flight-Delays
 
 ### Created for RIT ISTE 780 Data Driven Knowledge Discovery
